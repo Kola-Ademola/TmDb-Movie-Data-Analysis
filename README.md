@@ -5,7 +5,7 @@
 ## TmDb Movie Dataset
 
 This data set contains information about 10,866 movies collected from The Movie Database (TMDb), including user ratings and revenue.
-This dataset has 2 columns which consists of:
+This dataset has multiple columns which consists of:
 
 * id - unique movie id
 * imdb_id - unique movie id on the imdb database
