@@ -70,9 +70,9 @@ ___
 ___
 ![](images/prod2.png)
 ___
-![](images/genre_profit1.png)
+![](images/genre_proofit1.png)
 ___
-![](images/genre_profit2.png)
+![](images/genre_proofit2.png)
 ___
 * Created some functions for the charts  visualizations I would use repeatedly
 ![](images/functions.png)
